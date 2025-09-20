@@ -1,0 +1,9 @@
+Job Title: Junior Software Developer
+Responsibilities:
+- Develop backend systems in Python
+- Work with SQL databases and APIs
+- Collaborate using Git and Agile methods
+- Bonus: knowledge of Docker or cloud platforms
+Requirements:
+- Strong problem-solving skills
+- Knowledge of JavaScript and web frameworks

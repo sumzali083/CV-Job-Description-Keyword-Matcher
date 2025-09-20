@@ -1,0 +1,7 @@
+John Doe
+Computer Science Student, University of Example
+Skills: Python, Java, SQL, Git, HTML, CSS, JavaScript
+Experience:
+- Internship at TechCorp: built internal tools with Python and SQL
+- Group Project: created a web app with Flask and SQLite
+Education: BSc Computer Science (2022–2025)
