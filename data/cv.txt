@@ -5,3 +5,4 @@ Experience:
 - Internship at TechCorp: built internal tools with Python and SQL
 - Group Project: created a web app with Flask and SQLite
 Education: BSc Computer Science (2022–2025)
+I used Python and pandas for data analysis. Built a REST API with FastAPI and wrote unit tests with pytest. Deployed on Linux using Docker.

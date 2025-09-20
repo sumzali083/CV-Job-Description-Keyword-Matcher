@@ -7,3 +7,4 @@ Responsibilities:
 Requirements:
 - Strong problem-solving skills
 - Knowledge of JavaScript and web frameworks
+Looking for a Python developer with experience in data analysis (pandas, SQL), CI/CD, Docker, unit testing, and building REST APIs. Knowledge of Linux and FastAPI preferred.
