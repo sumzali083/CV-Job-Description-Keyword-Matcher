@@ -108,3 +108,4 @@ Libraries like spaCy and Rich
 Command-line arguments with argparse
 
 Generating a simple HTML report
+<img width="1852" height="952" alt="Screenshot 2025-09-20 155726" src="https://github.com/user-attachments/assets/dd3277c5-8b9d-4b07-951a-2ee7ff6eb697" />
